@@ -62,4 +62,9 @@ I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy! To 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/her4a/her4a/output/github-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/her4a/her4a/output/github-snake.svg" alt="snake gif"/>
   </picture>
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=her4a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=her4a&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+
 </div>
