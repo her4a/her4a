@@ -68,3 +68,16 @@ I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy! To 
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=her4a&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
 
 </div>
+
+---
+
+## ❤️ Let's Connect! :D
+
+<p align="center">
+  <a href="https://www.instagram.com/eldritch_glitch/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/tahiraaa.maidinshifwell/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+</p>
