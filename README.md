@@ -55,7 +55,7 @@ I am currently interning and building fullstack applications. Here are the tools
 
 ---
 
-## 🐍 The GitHub Mind Map
+## 🐍 GitHub Mind Map
 
 <div align="center">
   <picture>
