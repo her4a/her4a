@@ -51,7 +51,7 @@ I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy. Cod
 </div>
 
 * 💻 **Grinding:** My fullstack internship & surviving the matrix.
-* 💅 **Channeling:** Absolute Maki Zenin energy—breaking ceilings and building my own strength.
+* 💅 **Channeling:** Absolute Maki Zenin energy.
 
 ---
 
