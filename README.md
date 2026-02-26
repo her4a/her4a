@@ -81,3 +81,9 @@ I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy. Cod
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  <i>will update my github properly soon</i>
+</p>
