@@ -3,7 +3,7 @@
 </div>  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=100&color=F5EEDD&center=true&vCenter=true&width=600&lines=Hey!+I+am+Tahira+:3;Fullstack+Intern+%7C+Python+C%2FC%2B%2B+Wielder+👹;Radical+Feminist+|+Purveyor+of+Whimsy+😇" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=100&color=F5EEDD&center=true&vCenter=true&width=600&lines=Hey!+I+am+Tahira+:3;Fullstack+Intern+%7C+Python+C%2FC%2B%2B+Wielder+👹|+Whimsical+😇" alt="Typing SVG" />
 </div>
 
 <br>
@@ -50,8 +50,7 @@ I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy. Cod
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybDQxb2lvOXBhMzczbjJyaGJwMmgxdGdhYmR5bG0xY2txMnowMTY0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/200w.gif" width="350" alt="Grinding GIF" />
 </div>
 
-* 💻 **Grinding:** My fullstack internship & surviving the matrix.
-* 💅 **Channeling:** Absolute Maki Zenin energy.
+* 💻 **Grinding:** EVERYTHING I PUT MY MIND INTO (my drive to understand the world encompasses all different sectors that's why I actively engage in discourses, but my focus is on becoming a software engineer.
 
 ---
 
