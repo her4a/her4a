@@ -50,7 +50,7 @@ I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy. Cod
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybDQxb2lvOXBhMzczbjJyaGJwMmgxdGdhYmR5bG0xY2txMnowMTY0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/200w.gif" width="350" alt="Grinding GIF" />
 </div>
 
-* 💻 **Grinding:** EVERYTHING I PUT MY MIND INTO (my drive to understand the world encompasses all different sectors that's why I actively engage in discourses, but my focus is on becoming a software engineer.
+* 💻 **Grinding:** EVERYTHING I PUT MY MIND INTO (my drive to understand the world encompasses all different sectors hence I actively engage in discourses, and I aspire to be a software engineer.
 
 ---
 
