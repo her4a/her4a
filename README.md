@@ -21,7 +21,7 @@
   <tr>
     <td width="70%">
 
-I am a BS Computer Applications student, majoring in Embedded Systems, lowkey neurodivergent, and I value fostering whimsiness in our most critical and current timeline. Coding is fascinating because it reflects the foundation of the human mind; like building logic, managing memory, making intricate connections, and sometimes just letting systems run.
+I have pursued a BS Computer Applications degree, major in Embedded Systems. I am lowkey neurodivergent, and I value fostering whimsiness in this critical timeline. Coding is fascinating because it reflects the foundation of the human mind; like building logic, managing memory, making intricate connections, and sometimes just letting systems run.
 
   </td>
     <td align="center">
