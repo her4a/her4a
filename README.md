@@ -3,7 +3,7 @@
 </div>  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=100&color=F5EEDD&center=true&vCenter=true&width=900&lines=Hey!+I+am+Tahira+:3;+Fullstack+Intern+%7C+Python+C%2FC%2B%2B+Wielder+👹+|+Whimsical+😇" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=100&color=F5EEDD&center=true&vCenter=true&width=900&lines=Hey!+I+am+Tahira+:3;+Python+C%2FC%2B%2B+Wielder+👹+|+Whimsical+😇" alt="Typing SVG" />
 </div>
 
 <br>
@@ -21,7 +21,7 @@
   <tr>
     <td width="70%">
 
-I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy. Coding is fascinating because it reflects the foundation of the human mind; like building logic, managing memory, making intricate connections, and sometimes just letting systems run.
+I am a BS Computer Applications student, majoring in Embedded Systems, lowkey neurodivergent, and I value fostering whimsiness in our most critical and current timeline. Coding is fascinating because it reflects the foundation of the human mind; like building logic, managing memory, making intricate connections, and sometimes just letting systems run.
 
   </td>
     <td align="center">
@@ -44,13 +44,13 @@ I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy. Cod
 
 ---
 
-## ⚔️ Current Status: Deranged & Grinding 🐱
+## ⚔️ Current Status: Curious & Careful 🐱
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybDQxb2lvOXBhMzczbjJyaGJwMmgxdGdhYmR5bG0xY2txMnowMTY0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/200w.gif" width="350" alt="Grinding GIF" />
 </div>
 
- 💻 **Grinding:** EVERYTHING I PUT MY MIND INTO
+ 💻 **Curious:** 
   * my drive to understand the world encompasses all different sectors, hence, I actively engage in discourses; and
   * i aspire to become a software engineer with a particular specialisation on AI engineering.
 
